@@ -3,7 +3,7 @@
 
 ## Program Installation
 
-### Windows, Mac OS และ RPM-based Linux distribution
+### Windows, macOS และ RPM-based Linux distribution
 ระบบปฏิบัติการที่อยู่ในหัวข้อนี้นอกจาก Windows และ Mac OS แล้ว ยังรวมถึง Linux ที่ใช้ RPM เป็นระบบจัดการแพ็คเกจ ผู้ที่ใช้ระบบปฏิบัติการเหล่านี้สามารถดาวน์โหลดตัวติดตั้งจากหน้า [Download](https://nmap.org/download.html)  
 
 ### Debian-based Linux distribution
@@ -26,9 +26,9 @@
 การตรวจสอบบริการที่เปิดใช้งานโดยระบุหมายเลขพอร์ตเพื่อจำกัดกลุ่มของบริการที่จะตรวจสอบ  
 
 ## Information
-**Document link:** https://www.it.kmitl.ac.th/
+**Document link:** https://docs.google.com/document/d/15rjQlbB9wbP_f24e72Q80GGRGowx35lD/edit
 
-**Youtube link:** https://www.youtube.com/watch?v=YqG7RkwMstg  
+**Youtube link:** https://www.youtube.com/watch?v=mdp667QlIjY&feature=youtu.be 
 
 ## Authors
 * นายชยภัทร พันรอด - 61070036 - [PlengChayapat](https://github.com/PlengChayapat)
